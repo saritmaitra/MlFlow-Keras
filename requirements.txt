@@ -6,6 +6,6 @@ seaborn
 statsmodels
 keras
 tensorflow
-sqlalchemy==1.4.23 # not directly required, pinned by Snyk to avoid a vulnerability
+sqlalchemy==2.0.37 # not directly required, pinned by Snyk to avoid a vulnerability
 sqlparse==0.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
 numpy>=1.22.0 # not directly required, pinned by Snyk to avoid a vulnerability
